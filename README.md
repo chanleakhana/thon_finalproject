@@ -1,3 +1,10 @@
 # thon_finalproject
 
+**Description:**
+The dataset I'm using is called "UFO Sightings" and includes data on the location, time, duration, and description of the UFO sighting. It also includes the shape of the UFO.  I am interested in researching these following questions,
+* Is there a pattern among the most common times and location of UFO sightings?
+* Is there a common theme with the locations that have the most common UFO sightings?
+* Does the duration of the UFO sighting play an important role?
+* Do these patterns imply that these UFO sightings can be credible or debunked?
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chanleakhana/thon_finalproject.git/main)
