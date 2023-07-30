@@ -6,5 +6,6 @@ The dataset I'm using is called "UFO Sightings" and includes data on the locatio
 * Is there a common theme with the locations that have the most common UFO sightings?
 * Does the duration of the UFO sighting play an important role?
 * Do these patterns imply that these UFO sightings can be credible or debunked?
+* How have UFO sightings changed over time?
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chanleakhana/thon_finalproject.git/main)
