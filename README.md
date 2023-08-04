@@ -10,6 +10,6 @@ The dataset I'm using is called "UFO Sightings" and includes data on the locatio
 
 This repository contains the README file, requirements text file, and my final project notebook.
 
-Blog Post Link: https://chanleakhana.github.io/thon_finalproject_blog/posts/thon_finalproject_notebook-Copy1.html
+Blog Post Link: https://chanleakhana.github.io/thon_finalproject_blog/posts/thon_finalproject_notebook_blog.html
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chanleakhana/thon_finalproject.git/main)
