@@ -3,3 +3,4 @@ matplotlib
 nltk
 gensim
 pandas
+plotly
