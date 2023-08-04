@@ -1,4 +1,4 @@
-# thon_finalproject
+# Patterns in UFO Sightings
 
 **Description:**
 The dataset I'm using is called "UFO Sightings" and includes data on the location, time, duration, and description of the UFO sighting. It also includes the shape of the UFO.  I am interested in researching these following questions,
@@ -7,5 +7,9 @@ The dataset I'm using is called "UFO Sightings" and includes data on the locatio
 * Does the duration of the UFO sighting play an important role?
 * Do these patterns imply that these UFO sightings can be credible or debunked?
 * How have UFO sightings changed over time?
+
+This repository contains the README file, requirements text file, and my final project notebook.
+
+Blog Post Link: https://chanleakhana.github.io/thon_finalproject_blog/posts/thon_finalproject_notebook-Copy1.html
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chanleakhana/thon_finalproject.git/main)
